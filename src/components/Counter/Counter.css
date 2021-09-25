@@ -1,0 +1,26 @@
+.counter {
+  background-color: #61dafb;
+	color: black;
+	font: bold 2em "Courier New", monospace;
+	border: 3px solid #282c34;
+	border-radius: 14px;
+	padding: 10px 25px 5px;
+	height: 1.2em;
+	width: 2em;
+	user-select: none;
+	text-align: center;
+	position: fixed;
+	bottom: 0.5em;
+}
+
+.right {
+	right: 0.5em;
+}
+
+.left {
+	left: 0.5em;
+}
+
+p {
+	margin: 0
+}

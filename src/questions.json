@@ -1,0 +1,128 @@
+[
+	{
+		"text": "Otázka číslo 1",
+		"answers": [
+			{
+				"text": "Odpoveď 1 na otázku 1",
+				"points": 25,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 2 na otázku 1",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 3 na otázku 1",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 4 na otázku 1",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 5 na otázku 1",
+				"points": 30,
+				"revealed": false
+			}
+		]
+	}, {
+		"text": "Otázka číslo 2",
+		"answers": [
+			{
+				"text": "Odpoveď 1 na otázku 2",
+				"points": 25,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 2 na otázku 2",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 3 na otázku 2",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 4 na otázku 2",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 5 na otázku 2",
+				"points": 30,
+				"revealed": false
+			}
+		]
+	}, {
+		"text": "Otázka číslo 3",
+		"answers": [
+			{
+				"text": "Odpoveď 1 na otázku 3",
+				"points": 25,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 2 na otázku 3",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 3 na otázku 3",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 4 na otázku 3",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 5 na otázku 3",
+				"points": 30,
+				"revealed": false
+			}
+		]
+	}, {
+		"text": "Otázka číslo 4",
+		"answers": [
+			{
+				"text": "Odpoveď 1 na otázku 4",
+				"points": 25,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 2 na otázku 4",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 3 na otázku 4",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 4 na otázku 4",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 5 na otázku 4",
+				"points": 30,
+				"revealed": false
+			}
+		]
+	}, {
+		"text": "Otázka číslo 5",
+		"answers": [
+			{
+				"text": "Odpoveď 1 na otázku 5",
+				"points": 25,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 2 na otázku 5",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 3 na otázku 5",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 4 na otázku 5",
+				"points": 30,
+				"revealed": false
+			},	{
+				"text": "Odpoveď 5 na otázku 5",
+				"points": 30,
+				"revealed": false
+			}
+		]
+	}
+]
